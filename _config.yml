@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          "플래닛조에"
+description:    "미대출신 와인마케터의 데이터사이언티스트 전향의 기록"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://zoeslee.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Zoe Soohyun Lee
+  url:          https://zoeslee.github.io
+  email:        soohyunlee08@gmail.com
 
 # Build settings
 markdown:       kramdown
