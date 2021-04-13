@@ -1,7 +1,6 @@
 # Site settings
 title:          "플래닛조에"
 description:    "미대출신 와인마케터의 데이터사이언티스트 전향의 기록"
-baseurl:        "/tale"
 url:            "https://zoeslee.github.io"
 
 # Google Analytics
