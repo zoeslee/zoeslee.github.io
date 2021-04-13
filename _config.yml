@@ -21,6 +21,8 @@ include:
 sass:
   sass_dir:     _sass
   style:        compressed
+  
+google_fonts: "Nanum+Gothic:400,700"
 
 # Gems
 plugins:
