@@ -9,3 +9,6 @@ tags:
   - test
 ---
 첫번째 포스팅을 등록했다.
+
+Latex test
+$$ Rˆ2, y = \alpha + \beta x + \epsilon $$
