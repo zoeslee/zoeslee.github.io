@@ -1,6 +1,6 @@
 ---
 title: "첫 포스팅 등록"
-date: 2023-06-20 10:00:00
+date: 2023-06-20
 layout: signle
 categories:
   - blog
